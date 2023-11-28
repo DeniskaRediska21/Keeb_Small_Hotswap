@@ -31,7 +31,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x0001080_7fffffff)
+      (layerselection 0x00010c8_7fffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
@@ -62,7 +62,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "Production_symetrical/")
+      (outputdirectory "Production_right/")
     )
   )
 
