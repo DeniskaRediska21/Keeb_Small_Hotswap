@@ -1,6 +1,6 @@
-# Split Ergo Hotswap Keyboard 
+# Split Ergo Ortholinear Hotswap Keyboard 
 
-This project attempts to create easelly reproducible split hotswap mechanical
+This project attempts to create easelly reproducible split ortholinear  hotswap mechanical
 keyboard. 
 
 Gimmics: 
@@ -9,7 +9,7 @@ Gimmics:
 + Key layouts are changed by dragging a file onto PiPicos storrage
 + Halves are connected through TypeC
 + PCB fits into 100x100mm square, so it is very cheap to order from chineese manifacturers
-+
+
 
 # Gallery
 
