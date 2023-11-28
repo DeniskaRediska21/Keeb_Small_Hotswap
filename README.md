@@ -13,4 +13,6 @@ Gimmics:
 
 # Gallery
 
-![PCB](Media/left_board.png)
+
+| ![PCB](Media/left_board.png) | ![PCB](Media/right.png) |
+|------------------------------|-------------------------|
