@@ -8,7 +8,7 @@ Gimmics:
 + Uses PiPico as MC, runs on CircuitPython
 + Key layouts are changed by dragging a file onto PiPicos storrage
 + Halves are connected through TypeC
-+ PCB fits into 100x100mm square, so it is very cheap to order from chineese manifacturers
++ PCB fits into 100x100mm square, so it is very cheap to order from Chineese manifacturers
 
 
 # Gallery
