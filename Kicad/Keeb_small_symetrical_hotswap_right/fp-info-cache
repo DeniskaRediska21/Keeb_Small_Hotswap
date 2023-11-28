@@ -1,4 +1,4 @@
-5103478371836
+6804643394521
 MCU_RaspberryPi_and_Boards
 Crystal_SMD_HC49-US
 SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
@@ -20,3 +20,10 @@ Through hole pin header THT 2x20 2.54mm double row
 0
 86
 43
+MCU_RaspberryPi_and_Boards
+RPi_Pico_SMD_TH_NO_HOLES
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
